@@ -1,0 +1,24 @@
+
+
+body {  background-color: rgb(193, 199, 191);
+
+
+}
+
+    
+
+hr {   border-style: none;
+    border-top-style: dotted;
+    border-color: aquamarine;
+    border-width: 5px;
+    width: 5%;
+
+
+}
+   
+h1 {
+    color: rgb(64, 131, 108);
+}
+h2{ color: rgb(77, 133, 114);}
+img { height: 500px;}
+
